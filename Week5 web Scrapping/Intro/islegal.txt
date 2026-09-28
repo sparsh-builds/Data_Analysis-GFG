@@ -1,0 +1,43 @@
+Web Scraping is the process of automatically extracting data and particular information from websites using software or a script. The extracted information can be stored in various formats like SQL, Excel and HTML. There are a number of web scraping tools out there to perform the task and various languages too, having libraries that support web scraping
+
+Is Web Scraping Legal or Illegal?
+Web scraping is not illegal by default but it depends on how you use the data and whether you follow the website’s terms and conditions.
+
+Think of it like this, if someone is welcome to enter your home through the front door but they choose to climb the wall instead it feels wrong, even if they were invited. Similarly, most websites show public data that you can view or even store for personal use. But using that data without permission-especially for commercial purposes or in ways that break the site's rules-can lead to legal trouble.
+
+Laws around web scraping are still unclear in many places, but misusing it may violate:
+
+The Digital Millennium Copyright Act (DMCA)
+The Computer Fraud and Abuse Act (CFAA)
+Copyright laws
+Contract agreements
+Anti-trespassing rules (in a digital sense)
+So while scraping can be legal doing it carelessly or for the wrong reasons can get you into legal trouble.
+
+Common Ethical Concerns
+Here are some of the most pressing ethical issues surrounding web scraping:
+
+Violation of Website Terms of Service: Most websites include clauses in their Terms of Service (ToS) that explicitly prohibit automated data collection. Ignoring these terms can be considered unethical-even if it's not technically illegal.
+Overburdening Website Servers: Aggressive scraping can lead to excessive server load, resulting in slow performance or even downtime. This not only affects the website owner but also harms legitimate users.
+Privacy and Personal Data: Scraping personally identifiable information (PII)-such as email addresses, phone numbers or social media content-can violate user privacy, especially if the data was not intended for bulk collection or redistribution.
+Intellectual Property Rights: Many websites invest heavily in creating original content. Scraping and republishing such content without permission can constitute plagiarism or copyright infringement.
+Data Misuse: Data collected through scraping can be used for unethical or illegal purposes such as phishing, spamming, deepfake generation or identity theft.
+Bypassing Access Controls: Some scrapers attempt to bypass anti-bot mechanisms like CAPTCHA, login walls or paywalls. These actions cross clear ethical lines and are often illegal.
+Case Studies and Controversies
+Several high-profile cases have brought ethical and legal debates around scraping to the forefront:
+
+1. LinkedIn vs. hiQ Labs (2017–2022)
+hiQ Labs scraped public LinkedIn profiles to offer employee analytics services. LinkedIn sued hiQ, claiming unauthorized access. The court initially ruled in hiQ’s favor, citing public data access rights, but the case highlighted the blurred lines between public data and ethical use.
+
+2. Facebook vs. Clearview AI
+Clearview AI scraped billions of photos from Facebook and other platforms to build a facial recognition database, sparking a global outcry over privacy violations and misuse of personal data.
+
+Best Practices for Ethical Scraping
+To scrape responsibly, developers and organizations should adhere to the following ethical principles:
+
+Respect robots.txt and Terms of Service: Before scraping, check if the website permits bots and automated tools.
+Rate Limiting: Throttle your requests to mimic human browsing behavior and avoid overwhelming the server.
+Avoid Scraping Personal or Sensitive Data: If the data could be used to identify or harm individuals, it’s best to steer clear.
+Use APIs When Available: APIs are designed for data access and often come with clear usage terms, making them a cleaner alternative to scraping.
+Cite Sources and Use Data Transparently: If you're using scraped data for research, publication or reports, always give proper attribution.
+Be Transparent with Your Intent: If possible, disclose scraping activities to website owners, especially if the data will be used commercially.
